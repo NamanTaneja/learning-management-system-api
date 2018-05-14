@@ -1,0 +1,12 @@
+{
+  "name": "learningmanagementsystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"tsc && node out/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naman Taneja",
+  "license": "ISC"
+}
